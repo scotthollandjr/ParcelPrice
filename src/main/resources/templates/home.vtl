@@ -1,0 +1,35 @@
+<div class="jumbotron mainjumbo vertical-center">
+  <h1 id="mainh1">Parcel</h1>
+
+  <p>Enter Details about yout Package</p>
+
+<form action='/results' method='get' class="formspace">
+  <div class="form-group">
+    <label for="type" class="control-label">Enter Length:</label>
+    <input class="form-control" id="length" name="length" type="text">
+  </div>
+  <div class="form-group">
+    <label for="type" class="control-label">Enter Width:</label>
+    <input class="form-control" id="width" name="width" type="text">
+  </div>
+  <div class="form-group">
+    <label for="type" class="control-label">Enter Height:</label>
+    <input class="form-control" id="height" name="height" type="text">
+  </div>
+  <div class="form-group">
+    <label for="type" class="control-label">Enter Weight:</label>
+    <input class="form-control" id="weight" name="weight" type="text">
+  </div>
+  <div class="form-group">
+    <label for="type" class="control-label">Delivery Method:</label>
+    <select class="form-control" id="delivery" name="delivery">
+      <option value="0" disabled selected>Select your option</option>
+      <option value="1" id="O">Overnight</option>
+      <option value="2" id="2day">2-Day Shipping</option>
+      <option value="3" id="sp">Standard Post</option>
+    </select>
+  </div>
+
+  <button type="submit" id="button" class="btn btn-info btn-lg">Check!</button>
+</form>
+</div>
