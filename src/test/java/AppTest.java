@@ -31,7 +31,7 @@ public class AppTest extends FluentTest {
     fill("#weight").with("10");
     click("#sp");
     submit(".btn");
-    assertThat(pageSource()).contains("14");
+    assertThat(pageSource()).contains("15.68");
   }
 
 
