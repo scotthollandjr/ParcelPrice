@@ -13,6 +13,10 @@ Parcel price checker for Epicodus Java course. User enters a parcel size, weight
 * enter three sides into the fields, and click
 * enjoy results
 
+## Link to repository
+Install the project files by following the link below and cloning this repository:
+https://github.com/theAppanaut/ParcelPrice.git
+
 ## Technologies Used
 * Velocity Template Engine
 * Spark
