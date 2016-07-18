@@ -1,9 +1,9 @@
 # _Parcel Price Checker_
 
-#### _4/25_
+#### _4/25/2016_
 
 ## Description
-Parcel price checekr for Epicodus Java course. User enters a parcel size, weight, and distance to be shipped, and the program will calculate a shipping cost based on those parameters.
+Parcel price checker for Epicodus Java course. User enters a parcel size, weight, and distance to be shipped, and the program will calculate a shipping cost based on those parameters.
 
 ## Setup/Installation Requirements
 * Clone repository
